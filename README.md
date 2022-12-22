@@ -1,4 +1,4 @@
-### Build a Blockchain and Cryptocurrency from Scratch
+#Build a Blockchain and Cryptocurrency from Scratch
 
 The official code for the *Build a Blockchain and Cryptocurrency from Scratch* course on Udemy by David Katz.
 
@@ -17,4 +17,4 @@ Some of the main course highlights:
 - Create a Transaction Pool for a real-time list of incoming data.
 - Include transactions in core blocks of the chain.
 
-Ultimately, knowledge of the Blockchain will set you up for success in the future, as an engineer in a blockchain-dominated world.
+I have successfully completed the course.
